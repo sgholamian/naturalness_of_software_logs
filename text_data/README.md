@@ -1,0 +1,1 @@
+This directory contains the data for English text, for Gutenburg and Wiki. 

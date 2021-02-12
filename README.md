@@ -13,5 +13,5 @@ https://github.com/kpu/kenlm
 
 
 [1] Kundi Yao, Heng Li, Weiyi Shang, and Ahmed E Hassan. 2020. A Study of the Performance of General Compressors on Log Files. Empirical Software Engineering (2020), 3043–3085.
-
+https://github.com/SAILResearch/suppmaterial-20-kundi-log_compression
 
